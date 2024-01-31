@@ -58,7 +58,7 @@
     "@nuxtjs/eslint-config-typescript": "latest",
     "cross-env": "^7.0.3",
     "eslint": "latest",
-    "husky": "8.0.3",
+    "husky": "9.0.7",
     "nuxt": "3.8.0",
     "pnpm": "8.15.1",
     "prettier": "2.8.8",
